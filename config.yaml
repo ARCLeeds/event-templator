@@ -1,25 +1,60 @@
-title: "Title"
-heading: "Short heading"
-body: "This is the body of the advertising. Here you can put any information you want."
+title: "Upcoming Training Courses"
+heading: "Places are now available for upcoming Research Computing training courses, sign up now!"
+body: "Listed below are the training sessions we are hosting in the coming weeks."
 
 events:
-  - title: "Event 1"
+  - title: "Introduction to Linux for HPC"
     dates:
-      - 2024-02-20
+      - 2024-06-19
     tags:
-      - "tag1"
-      - "tag2"
-    summary: "This is a summary of the event 1."
-    url: "https://example.com/event1"
-    
-  - title: "Event 2"
+      - "1 Half Day"
+      - "In-Person"
+    summary: "A practical workshop about the Linux command line and filesystem on the HPC resources at Leeds."
+    url: "https://arc.leeds.ac.uk/training/courses/hpc0/"
+
+  - title: "Introduction to High Performance Computing"
     dates:
-      - 2024-03-05
-      - 2024-03-12
+      - 2024-07-01
     tags:
-      - "tag3"
-      - "tag4"
-      - "tag5"
-    summary: "This is a summary of the event 2."
-    url: "https://example.com/event2"
-    
+      - "1 Day"
+      - "In-Person"
+    summary: "A practical workshop providing an overview of HPC resources at Leeds and how to use them."
+    url: "https://arc.leeds.ac.uk/training/courses/hpc1/"
+
+  - title: "Software development practices for Research with Python"
+    dates:
+      - 2024-07-25
+    tags:
+      - "1 Day"
+      - "In-Person"
+    summary: "A one-day workshop introducing techniques and concepts that professional software developers use to manage their code, projects and teams. The workshop will be based on Python."
+    url: "https://arc.leeds.ac.uk/training/courses/swd3/"
+
+  - title: "Introduction to Python programming"
+    dates:
+      - 2024-08-08
+      - 2024-08-09
+    tags:
+      - "2 Days"
+      - "In-Person"
+    summary: "This is an introduction to programming in Python for people with little or no previous programming experience."
+    url: "https://arc.leeds.ac.uk/training/courses/swd1a/"
+
+  - title: "Applications and containers on HPC"
+    dates:
+      - 2024-09-10
+      - 2024-09-12
+    tags:
+      - "2 Half Days"
+      - "Online"
+    summary: "A two-half-days workshop introducing application development on the HPC service with hands on practice managing, installing and compiling code."
+    url: "https://arc.leeds.ac.uk/training/courses/hpc2/"
+
+  # - title: "Introduction to Data Visualisation with Python"
+  #   dates:
+  #     - 2024-09-25
+  #   tags:
+  #     - "1 Days"
+  #     - "In-Person"
+  #   summary: "This course is designed to introduce concepts relating to good data visualisation, utilising packages available for Python."
+  #   url: "https://arctraining.github.io/data-vis/welcome.html"
